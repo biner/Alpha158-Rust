@@ -6,6 +6,7 @@ members = [
     "crates/alpha158-factors",
     "crates/alpha158-cache",
     "crates/alpha158-core",
+    "crates/qlib-rs",
 ]
 resolver = "2"
 
