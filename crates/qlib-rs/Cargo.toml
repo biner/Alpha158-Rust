@@ -12,5 +12,4 @@ alpha158-core = { path = "../alpha158-core" }
 alpha158-data = { path = "../alpha158-data" }
 pyo3 = { version = "0.29", features = ["extension-module"] }
 numpy = "0.29"
-ndarray = "0.16"
 rayon = { workspace = true }
